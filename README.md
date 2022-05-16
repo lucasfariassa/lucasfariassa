@@ -27,9 +27,10 @@
     <td>3학기 - 2022년 상반기</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <th>Language Fluency</th>
+    <td>Fluent/Native (Fluente/Nativo)</td>
+    <td>Advanced</td>
+    <td>Beginner (초심자)</td>
   </tr>
 </table>
 <br>
