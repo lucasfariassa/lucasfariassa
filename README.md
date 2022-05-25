@@ -17,7 +17,7 @@
   <tr>
     <th>Current Occupation</th>
     <td>Estudante de Engenharia de Software</td>
-    <td>Software Engineering Studant</td>
+    <td>Software Engineering Student</td>
     <td>소프트웨어 엔지니어링 학생</td>
   </tr>
   <tr>
