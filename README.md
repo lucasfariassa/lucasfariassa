@@ -22,9 +22,9 @@
   </tr>
   <tr>
     <th>Current Semester</th>
-    <td>3º Semestre - 2022.1</td>
-    <td>3rd Semester - first half of 2022</td>
-    <td>3학기 - 2022년 상반기</td>
+    <td>4º Semestre - 2022.1</td>
+    <td>4rd Semester - second half of 2022</td>
+    <td>4학기 - 2022년 하반기</td>
   </tr>
   <tr>
     <th>Language Fluency</th>
