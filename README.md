@@ -22,9 +22,9 @@
   </tr>
   <tr>
     <th>Current Semester</th>
-    <td>5º Semestre - 2023.1</td>
-    <td>5th Semester - first half of 2023</td>
-    <td>5학기 - 2023년 상반기</td>
+    <td>6º Semestre - 2023.2</td>
+    <td>6th Semester - second half of 2023</td>
+    <td>6학기 - 2023년 하반기</td>
   </tr>
   <tr>
     <th>Language Fluency</th>
