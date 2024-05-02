@@ -34,4 +34,9 @@
   </tr>
 </table>
 <br>
-<a href="https://github.com/lucasfariassa/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfariassa&layout=compact&theme=darcula&hide_border=true"/></a>
+<a href="https://github.com/lucasfariassa/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfariassa&show_icons=true&theme=slateorange&hide_border=true" />
+</a>
+<a href="https://github.com/lucasfariassa/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfariassa&layout=compact&langs_count=8&card_width=436.5&theme=slateorange&hide_border=true" />
+</a>
