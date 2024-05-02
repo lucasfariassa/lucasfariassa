@@ -38,5 +38,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfariassa&show_icons=true&theme=slateorange&hide_border=true" />
 </a>
 <a href="https://github.com/lucasfariassa/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfariassa&layout=compact&langs_count=8&card_width=200&theme=slateorange&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfariassa&layout=compact&langs_count=8&card_width=220&theme=slateorange&hide_border=true" />
 </a>
