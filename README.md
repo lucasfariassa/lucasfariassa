@@ -22,9 +22,9 @@
   </tr>
   <tr>
     <th>Current Semester</th>
-    <td>7º Semestre - 2024.1</td>
-    <td>7th Semester - first half of 2024</td>
-    <td>7학기 - 2024년 상반기</td>
+    <td>8º Semestre - 2024.2</td>
+    <td>8th Semester - second half of 2024</td>
+    <td>8학기 - 2024년 하반기</td>
   </tr>
   <tr>
     <th>Language Fluency</th>
