@@ -6,25 +6,25 @@
     <th>Languages</th>
     <th><img src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" alt="Brazilian Flag" width="50"/></th>
     <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/English_language.svg/640px-English_language.svg.png" alt="American and English Flag" width="65"/></th>
-    <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png" alt="Korean Flag" width="50"/</th>
+    <th><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png" alt="Korean Flag" width="50"/></th>
   </tr>
   <tr>
     <th>Current Educational Institution</th>
-    <td>Universidade Católica do Salvador</td>
-    <td>Catholic University of Salvador</td>
-    <td>사우바도르가톨릭대학교</td>
+    <td>Pontifícia Universidade Católica do Paraná</td>
+    <td>Pontifical Catholic University of Paraná</td>
+    <td>파라나 가톨릭 대학교</td>
   </tr>
   <tr>
     <th>Current Occupation</th>
-    <td>Estudante de Engenharia de Software</td>
-    <td>Software Engineering Student</td>
-    <td>소프트웨어 엔지니어링 학생</td>
+    <td>Pós-graduando em Desenvolvimento de Aplicativos Móveis</td>
+    <td>Postgraduate Student in Mobile App Development</td>
+    <td>모바일 앱 개발 대학원생</td>
   </tr>
   <tr>
     <th>Current Semester</th>
-    <td>8º Semestre - 2024.2</td>
-    <td>8th Semester - second half of 2024</td>
-    <td>8학기 - 2024년 하반기</td>
+    <td>1º Semestre - 2025.1</td>
+    <td>1st Semester - first half of 2025</td>
+    <td>1학기 - 2025년 상반기</td>
   </tr>
   <tr>
     <th>Language Fluency</th>
